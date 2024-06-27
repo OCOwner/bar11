@@ -46,7 +46,7 @@ const Map = () => {
           <p>서비스로 편안히 모시겠습니다.</p>
           <p>주소 : 서울특별시 서초구 서초동 1330-15 지하1층 BAR11CLUB</p>
           <p>예약 010-3102-0233 신동실장</p>
-          <p>카톡문의 ssgg111</p>
+          <p>카톡문의 11sd1</p>
         </Comment>
         <KaKaoMap id="kakao-map" />
       </Container>
