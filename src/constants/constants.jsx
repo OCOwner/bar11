@@ -3,4 +3,5 @@ export const PATH_URL = {
   ABOUT: '/about',
   INFO: '/info',
   WELCOME: '/welcome',
+  SITEMAP: '/sitemap.xml',
 };

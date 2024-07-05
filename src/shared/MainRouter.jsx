@@ -15,6 +15,7 @@ const MainRouter = () => {
           <Route path={PATH_URL.INFO} element={<Info />} />
           <Route path={PATH_URL.ABOUT} element={<About />} />
           <Route path={PATH_URL.WELCOME} element={<WayToCome />} />
+          {/* <Route path={PATH_URL.SITEMAP} element={sitemap.xml} /> */}
         </Routes>
       </Layout>
     </BrowserRouter>
