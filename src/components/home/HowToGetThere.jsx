@@ -29,21 +29,21 @@ const ContentWrapper = styled.div`
   margin-top: 40px;
 `;
 
-const HowToText = styled.div`
-  /* flex: 1; */
-  color: #ffffff;
+// const HowToText = styled.div`
+//   /* flex: 1; */
+//   color: #ffffff;
 
-  margin-right: 20px;
-`;
+//   margin-right: 20px;
+// `;
 
-const HowToTextTitle = styled.p`
-  font-size: 40px;
-  margin-bottom: 10px;
-`;
+// const HowToTextTitle = styled.p`
+//   font-size: 40px;
+//   margin-bottom: 10px;
+// `;
 
-const TextLine = styled.p`
-  margin: 0 0 13px; // 각 줄의 하단 여백을 설정합니다.
-`;
+// const TextLine = styled.p`
+//   margin: 0 0 13px; // 각 줄의 하단 여백을 설정합니다.
+// `;
 
 // const HowToImg = styled.div`
 //   flex: 1;
