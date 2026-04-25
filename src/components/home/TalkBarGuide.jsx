@@ -20,7 +20,7 @@ export default FourthDescription;
 const Container = styled.div`
   display: flex;
   background-image: url(${backgroundImage});
-  background-size: cover; /* 배경 이미지를 컨테이너에 맞춰서 늘리거나 줄입니다 */
+  background-size: cover;
   background-position: center; /* 배경 이미지를 가운데 정렬합니다 */
   background-repeat: no-repeat; /* 배경 이미지를 반복하지 않습니다 */
   color: #ffffff;
