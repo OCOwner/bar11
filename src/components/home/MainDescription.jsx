@@ -1,7 +1,7 @@
 import styled from "styled-components";
 import CallBtn from "../public/CallBtn";
 import MassageBtn from "../public/MassageBtn";
-import backgroundImage from "../../assets/image/image17.jpeg";
+import backgroundImage from "../../assets/image/main1.png";
 
 const MainDescription = () => {
     return (

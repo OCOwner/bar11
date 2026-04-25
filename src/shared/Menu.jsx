@@ -1,8 +1,8 @@
 import React from 'react';
 import styled from 'styled-components';
 import image1 from '../../src/assets/image/menu.jpg';
-import image2 from '../../src/assets/image/image13.png';
-import image3 from '../../src/assets/image/image10.jpeg';
+import image2 from '../../src/assets/image/servimage1.png';
+import image3 from '../../src/assets/image/servimage2.png';
 import backgroundImage from '../../src/assets/image/image18.jpeg';
 
 const Menu = ({ barName, eng }) => {

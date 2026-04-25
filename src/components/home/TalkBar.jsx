@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import image from '../../assets/image/image12.jpeg';
+import image from '../../assets/image/talkbar.png';
 import backgroundImage from '../../assets/image/place7.jpeg';
 import Call from './Call';
 

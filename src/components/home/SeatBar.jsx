@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import image from "../../assets/image/avv.jpeg";
+import image from "../../assets/image/seatbar.png";
 
 const SecondDescription = () => {
     return (

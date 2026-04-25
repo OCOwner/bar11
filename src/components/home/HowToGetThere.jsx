@@ -1,10 +1,10 @@
 import styled from 'styled-components';
-import image from '../../assets/image/image6.jpeg';
+import image from '../../assets/image/way1.png';
 
 const HowToGetThere = () => {
   return (
     <ContentWrapper>
-      <HowToText>
+      {/* <HowToText>
         <HowToTextTitle>오시는 길</HowToTextTitle>
         <TextLine>오시기 전 편하게 연락 주세요.</TextLine>
         <TextLine>가격 거품없는 강남 최고 규모의 서비스로</TextLine>
@@ -12,7 +12,7 @@ const HowToGetThere = () => {
         <TextLine>주소 서울특별시 서초구 서초대로 78길 46 (지하1층)</TextLine>
         <TextLine>예약전화 010-4997-6060 성훈실장</TextLine>
         <TextLine>카톡문의 11sd1</TextLine>
-      </HowToText>
+      </HowToText> */}
       <HowToImgImage src={image} alt="강남역에서 오시는 길 이미지" />
     </ContentWrapper>
   );
