@@ -6,7 +6,7 @@ import backgroundImage from '../../assets/image/image17.jpeg';
 const AboutTitle = () => {
   return (
     <Container>
-      <Manager>BAR11 신동실장 010 3102 0233</Manager>
+      <Manager>BAR11 성훈실장 010 3102 0233</Manager>
       <ShopName>강남착석바 BAR 11</ShopName>
       <Call>
         <CallBtn />

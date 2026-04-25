@@ -3,7 +3,7 @@ import styled from 'styled-components';
 const Number = () => {
   return (
     <Container>
-      <NameNumber>010-3102-0233 신동실장</NameNumber>
+      <NameNumber>010-4997-6060 성훈실장</NameNumber>
     </Container>
   );
 };

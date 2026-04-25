@@ -13,7 +13,7 @@ const Discription = () => {
         </LightInfoBox>
         <DarkInfoBox>
           <InfoText>
-            <p>010-3102-0233 신동실장</p>
+            <p>010-4997-6060 성훈실장</p>
             <p>카톡아이디 : 11sd1</p>
             <p>Monday - Saturday : 7pm ~ 7am</p>
           </InfoText>

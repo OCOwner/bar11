@@ -2,7 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 
 const CallBtn = () => {
-  const phoneNumber = '010-3102-0233';
+  const phoneNumber = '010-4997-6060';
 
   return (
     <ButtonWrapper>

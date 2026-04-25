@@ -18,7 +18,7 @@ const Home = () => {
       <TalkBar />
       <TalkBarGuide />
       <Menu />
-      <QandA title={'Q & A'} manager={"신동실장"} number={"010-3102-0233"} />
+      <QandA title={'Q & A'} manager={"성훈실장"} number={"010-4997-6060"} />
       <Review />
       <HowToGetThere />
       <Call />

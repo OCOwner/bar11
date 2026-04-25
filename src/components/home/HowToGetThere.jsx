@@ -10,7 +10,7 @@ const HowToGetThere = () => {
         <TextLine>가격 거품없는 강남 최고 규모의 서비스로</TextLine>
         <TextLine>편안히 모시겠습니다.</TextLine>
         <TextLine>주소 서울특별시 서초구 서초대로 78길 46 (지하1층)</TextLine>
-        <TextLine>예약전화 010-3102-0233 신동실장</TextLine>
+        <TextLine>예약전화 010-4997-6060 성훈실장</TextLine>
         <TextLine>카톡문의 11sd1</TextLine>
       </HowToText>
       <HowToImgImage src={image} alt="강남역에서 오시는 길 이미지" />

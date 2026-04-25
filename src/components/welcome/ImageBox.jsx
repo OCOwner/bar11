@@ -14,11 +14,11 @@ const ImageBox = () => {
         <ElementImage src={Element1Image2} alt="Visiting Tips" />
       </Element1>
       <Element3>
-        <ElementImage src={Element2Image3} alt="신동실장2" large />
+        <ElementImage src={Element2Image3} alt="성훈실장2" large />
       </Element3>
       <Element2>
-        <ElementImage src={Element2Image1} alt="신동실장1" />
-        <ElementImage src={Element2Image2} alt="신동실장2" />
+        <ElementImage src={Element2Image1} alt="성훈실장1" />
+        <ElementImage src={Element2Image2} alt="성훈실장2" />
       </Element2>
     </Container>
   );
